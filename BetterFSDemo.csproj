@@ -27,5 +27,8 @@
     <Reference Include="UnityEngine">
       <HintPath>lib\eu.dll</HintPath>
     </Reference>
+    <Reference Include="UniverseLib">
+      <HintPath>lib\UniverseLib.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
