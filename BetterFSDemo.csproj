@@ -30,5 +30,6 @@
     <Reference Include="UniverseLib">
       <HintPath>lib\UniverseLib.dll</HintPath>
     </Reference>
+    <!-- <Compile Include="patches\killpatch.cs" /> -->
   </ItemGroup>
 </Project>
