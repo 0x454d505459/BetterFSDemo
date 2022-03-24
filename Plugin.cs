@@ -23,7 +23,6 @@ namespace BetterFSDemo
             harmony.PatchAll();
             Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
             testcfg = Config.Bind("General", "Lot of ammos", true, "Makes you start with 999 ammos");
-
         }
 
                
